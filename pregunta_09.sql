@@ -37,4 +37,4 @@
 --  0  29  101.11  100  2017-11-17  0.42  MV-CB
 --
 --  >>> Escriba su codigo a partir de este punto <<<
---
+SELECT K1, MIN(c21) as c21,c22,c23,c24,c25 from tbl2 ;
